@@ -1,6 +1,6 @@
 {
   "name": "random-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RandomImage",
   "main": "main.js",
   "scripts": {
