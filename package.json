@@ -1,7 +1,7 @@
 {
-  "name": "selfdesignserver",
-  "version": "0.1.0",
-  "description": "SelfDesign Server",
+  "name": "random-image",
+  "version": "1.0.0",
+  "description": "RandomImage",
   "main": "main.js",
   "scripts": {
     "exec": "node src/control.js",
